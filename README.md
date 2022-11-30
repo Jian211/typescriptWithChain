@@ -1,0 +1,2 @@
+# typescriptWithChain
+  Typescript勉強
